@@ -14,5 +14,10 @@
 
 #sidebar .title a {
       color: {color:Primary Colour};
+      
+#sidebar .image {
+      width: 260px;
+      height: auto;
+}      
 
 
