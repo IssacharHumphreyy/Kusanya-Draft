@@ -1,7 +1,6 @@
 @import url("//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css");
 
 #sidebar {
-      background-color: white;
       width: 260px;
 }
 #sidebar .title {
@@ -13,7 +12,7 @@
 
 
 #sidebar .title a {
-      color: {color:Primary Colour};
+      color: {color:White};
       
 #sidebar .image {
       width: 260px;
