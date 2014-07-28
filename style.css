@@ -4,5 +4,15 @@
       background-color: white;
       width: 260px;
 }
+#sidebar .title {
+      font-family: 'Great Vibes', cursive;
+      font-size: 30px;
+      text-align: center;
+      padding: 10px;
+}
+
+
+#sidebar .title a {
+      color: {color:Primary Colour};
 
 
